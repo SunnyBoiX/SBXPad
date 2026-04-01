@@ -1,2 +1,2 @@
 # SBXPad
-Macropad
+The SBXPad
